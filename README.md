@@ -10,7 +10,7 @@ The bot will go through a created CSV file to select keywords saved and it will 
 
 Set the account you want to reply to by changing the account variable in TwitterBot.java
 Enter your own OAuth credentials in TwitterHandler.java in order to be able to tweet 
-
+______________________________
 Example: 
 
 Trump Troll
@@ -22,7 +22,7 @@ Shakperian Maker
 ______________________________
 User Tweets: "You look nice today"
 Bot Tweets: "Did you mean 'Thou'st look valorius this present day'?"
-
+______________________________
 
 
 It creates a CSV file named previousTweets.csv to save the users previous tweets 
