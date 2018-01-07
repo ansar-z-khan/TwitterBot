@@ -16,12 +16,14 @@ ______________________________
 Trump Troll
 
 Trump Tweets: "The fake news do not understand the importance of the wall"
+
 Bot Tweets: "Did you mean 'The dank memes do not understand the importance of the taco stand'?"
 ______________________________
 
 Shakperian Maker
 
 User Tweets: "You look nice today"
+
 Bot Tweets: "Did you mean 'Thou'st look valorius this present day'?"
 ______________________________
 
