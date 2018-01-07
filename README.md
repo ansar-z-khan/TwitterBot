@@ -14,7 +14,6 @@ ______________________________
 Example: 
 
 Trump Troll
-______________________________
 Trump Tweets: "The fake news do not understand the importance of the wall"
 Bot Tweets: "Did you mean 'The dank memes do not understand the importance of the taco stand'?"
 
